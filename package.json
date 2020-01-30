@@ -1,0 +1,14 @@
+{
+  "name": "cog-wp",
+  "version": "0.0.1",
+  "description": "Cog module for WordPress",
+  "global": "false",
+  "files": [
+    "cog-wp.sh",
+    "lib/requirements.sh",
+    "lib/plugins.sh",
+    "lib/theme.sh",
+    "lib/default.sh",
+    "sample.config"
+  ]
+}
